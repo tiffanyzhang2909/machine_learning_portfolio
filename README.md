@@ -13,4 +13,5 @@ This repository contains a collection of machine learning projects, assignments,
 ### 2. Gradient Boosting and Classification Tree Pruning
 - 📄 [View HTML Notebook](./Gradient%20Boosting%20and%20Classification%20Tree%20Pruning.html)
 - Explored Gradient Boosting classifiers and pruning decision trees pruning to reduce verfitting on structured datasets, with cross-validation and feature importance analysis.
+  
 ---
