@@ -8,10 +8,9 @@ This repository contains a collection of machine learning projects, assignments,
 
 ### 1. Word Embeddings and Sentiment Analysis
 - 📄 [View HTML Notebook](./Word%20Embeddings%20and%20Sentiment%20Analysis.html)
-- A project applying word embeddings and NLP preprocessing to classify movie review sentiments. Techniques include Word2Vec and t-SNE visualization.
+- Applied word embeddings and NLP preprocessing to classify movie review sentiments. Techniques include Word2Vec and t-SNE visualization.
 
 ### 2. Gradient Boosting and Classification Tree Pruning
 - 📄 [View HTML Notebook](./Gradient%20Boosting%20and%20Classification%20Tree%20Pruning.html)
-- A comparison of Decision Trees with pruning and Gradient Boosting classifiers on a structured dataset, with cross-validation and feature importance analysis.
-
+- Explored Gradient Boosting classifiers and pruning decision trees pruning to reduce verfitting on structured datasets, with cross-validation and feature importance analysis.
 ---
