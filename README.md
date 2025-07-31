@@ -15,7 +15,7 @@ This repository contains a collection of machine learning projects, assignments,
 - Explored Gradient Boosting classifiers and pruning decision trees pruning to reduce verfitting on structured datasets, with cross-validation and feature importance analysis.
 
 ### 3. Naive Bayes Classifier and Ridge and Lasso Regressions
-- 📄 [View HTML Notebook](./Naive&20Bayes%20Classifier%20and%20Ridge%20and%20Lasso%20Regressions.html)
+- 📄 [View HTML Notebook](./Naive%20Bayes%20Classifier%20and%20Ridge%20and%20Lasso%20Regressions.html)
 - 
 
 ### 4. Logistic Regression, Linear Discriminant Analysis and Quadratic Discriminant Analysis
@@ -23,7 +23,7 @@ This repository contains a collection of machine learning projects, assignments,
 - 
 
 ### 5. Linear Regression and KNeignborsClassifier
-- 📄 [View HTML Notebook](./Linear%20Regression%20and%20KNeignborsClassifier.html)
+- 📄 [View HTML Notebook](./Linear%20Regression%20and%20KNeighborsClassifier.html)
 - 
   
 ---
