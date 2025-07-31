@@ -22,7 +22,7 @@ This repository contains a collection of machine learning projects, assignments,
 - 📄 [View HTML Notebook](./Logistic%20Regression%2C%20Linear%20Discriminant%20Analysis%20and%20Quadratic%20Discriminant%20Analysis.html)
 - This project explores and compares Logistic Regression, Linear Discriminant Analysis (LDA), and Quadratic Discriminant Analysis (QDA) for classification tasks. It incorporates Variance Inflation Factor (VIF) analysis for multicollinearity detection and uses Stratified K-Fold Cross-Validation to ensure robust model evaluation.
 
-### 5. Linear Regression and KNeignborsClassifier
+### 5. Linear Regression and KNeighborsClassifier
 - 📄 [View HTML Notebook](./Linear%20Regression%20and%20KNeighborsClassifier.html)
 - 
   
