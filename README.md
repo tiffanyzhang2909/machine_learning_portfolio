@@ -16,7 +16,7 @@ This repository contains a collection of machine learning projects, assignments,
 
 ### 3. Naive Bayes Classifier and Ridge and Lasso Regressions
 - 📄 [View HTML Notebook](./Naive%20Bayes%20Classifier%20and%20Ridge%20and%20Lasso%20Regressions.html)
-- 
+- This project uses NLTK and a Naive Bayes classifier to distinguish between spam and ham emails by constructing a Document-Term Matrix. The second part compares Ridge and Lasso regression techniques to explore regularization effects in predictive modeling.
 
 ### 4. Logistic Regression, Linear Discriminant Analysis and Quadratic Discriminant Analysis
 - 📄 [View HTML Notebook](./Logistic%20Regression%2C%20Linear%20Discriminant%20Analysis%20and%20Quadratic%20Discriminant%20Analysis.html)
