@@ -24,6 +24,6 @@ This repository contains a collection of machine learning projects, assignments,
 
 ### 5. Linear Regression and KNeighborsClassifier
 - 📄 [View HTML Notebook](./Linear%20Regression%20and%20KNeighborsClassifier.html)
-- 
+- This project explores linear regression using statsmodels, enhanced with seaborn visualizations and a correlation matrix to understand feature relationships. The second part implements the K-Nearest Neighbors (KNN) algorithm using scikit-learn for classification tasks.
   
 ---
